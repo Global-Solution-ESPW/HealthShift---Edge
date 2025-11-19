@@ -245,8 +245,3 @@ http://localhost:1880/ui
 Engenharia de Software – FIAP
 Projeto da disciplina **Edge Computing**
 2025
-
-
-
-Ou preferir o **roteiro completo do vídeo** agora?
-```
