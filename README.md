@@ -225,15 +225,15 @@ http://localhost:1880/ui
 
 ---
 
-# 📁 Repositório GitHub
+# 📁 Link do Wokwi
 
-*()*
+*(https://wokwi.com/projects/448013098375915521)*
 
 ---
 
 # 🎬 Vídeo de Demonstração
 
-*()*
+*(https://youtu.be/nKyDCS5lqcM)*
 
 
 # 🧩 Autor
