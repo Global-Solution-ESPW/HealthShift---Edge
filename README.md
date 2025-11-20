@@ -181,24 +181,20 @@ http://localhost:1880/ui
 ## 1️⃣ Wokwi (ESP32)
 
 1. Abra o projeto no Wokwi
-2. Configure os Secrets:
+2. Verifique se o WIFI está correto:
 
    ```
    WIFI_SSID="Wokwi-GUEST"
    WIFI_PASSWORD=""
    ```
-3. Ative:
-
-   * Run in IoT Mode
-   * Internet Access
-4. Rode o código do ESP32
-5. Verifique no console:
+3. Rode o código do ESP32
+4. Verifique no console:
 
    ```
    Conectado ao WiFi!
    Conectado ao MQTT!
    ```
-6. Verifique telemetria sendo enviada
+5. Verifique telemetria sendo enviada
 
 ---
 
@@ -222,7 +218,8 @@ http://localhost:1880/ui
    ```
 5. Instalar Dashboard:
 
-   * Manage Palette → Install → `node-red-dashboard`
+   * Em NODE-RED vá em Manage Palette → Install → `node-red-dashboard`
+     
 6. Importar o fluxo
 7. Ver dados chegando em tempo real
 
