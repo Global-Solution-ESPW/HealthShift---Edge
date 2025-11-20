@@ -239,6 +239,7 @@ http://localhost:1880/ui
 # 🧩 Autor
 
 **Leandro Simoneli da Silva**
+RM : 566539
 Engenharia de Software – FIAP
 Projeto da disciplina **Edge Computing**
 2025
