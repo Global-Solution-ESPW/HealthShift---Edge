@@ -1,4 +1,4 @@
-```markdown
+
 # 🩺 Health Shift – Monitoramento Inteligente de Condições Ambientais (Edge Computing + IoT)
 
 **Health Shift** é um sistema de monitoramento em tempo real voltado para ambientes da área da saúde, projetado para acompanhar variáveis ambientais críticas que impactam diretamente o conforto, a produtividade e o bem-estar de profissionais e pacientes.
